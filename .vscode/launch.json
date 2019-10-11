@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - guiCalc",
+            "request": "launch",
+            "mainClass": "guiCalc",
+            "projectName": "src_74f6ac1c"
+        }
+    ]
+}
